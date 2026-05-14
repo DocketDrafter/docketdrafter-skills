@@ -1,0 +1,46 @@
+---
+case_name: "True Bus. Funding, LLC v. Guerrero A Constr. Corp."
+case_name_full: ""
+court_id: "nyappdiv"
+date_filed: "2025-06-11"
+docket_number: "Index No. 522667/22"
+lookup_citation: ""
+citations: "2025 NY Slip Op 03598"
+precedential_status: "Published"
+judges: ""
+opinion_type: "010combined"
+cluster_id: 10624889
+opinion_id: 11069438
+source_url: "https://www.courtlistener.com/opinion/10624889/true-bus-funding-llc-v-guerrero-a-constr-corp/"
+---
+
+True Bus. Funding, LLC v Guerrero A Constr. Corp. ([2025 NY Slip Op 03598](https://www.courtlistener.com/opinion/10624889/true-bus-funding-llc-v-guerrero-a-constr-corp/))
+True Bus. Funding, LLC v Guerrero A Constr. Corp. 2025 NY Slip Op 03598 Decided on June 11, 2025 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This opinion is uncorrected and subject to revision before publication in the Official Reports.
+Decided on June 11, 2025
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+MARK C. DILLON, J.P.
+WILLIAM G. FORD
+CARL J. LANDICINO
+DONNA-MARIE E. GOLIA, JJ.
+2023-02387
+ (Index No. 522667/22)
+**[*1]True Business Funding, LLC, respondent,
+vGuerrero A Construction Corp., etc., appellant, et al., defendant.**
+G.A.M. Law Office P.C., New York, NY (Giselle Ayala of counsel), for appellant.
+Ainsworth Gorkin PLLC, Brooklyn, NY (Yehuda C. Morgenstern of counsel), for respondent.
+DECISION & ORDER
+In an action, inter alia, to recover damages for breach of contract, the defendant Guerrero A Construction Corp. appeals from a judgment of the Supreme Court, Kings County (Aaron D. Maslow, J.), dated April 20, 2023. The judgment, upon an order of the same court dated February 8, 2023, inter alia, granting the plaintiff's cross-motion for summary judgment on the complaint, is in favor of the plaintiff and against the defendants in the total sum of $93,651.88.
+ORDERED that on the Court's own motion, the notice of appeal from the order is deemed to be a premature notice of appeal from the judgment (*see* CPLR 5520[c]); and it is further,
+ORDERED that the judgment is affirmed; and it is further,
+ORDERED that one bill of costs is awarded to the plaintiff.
+On July 1, 2022, the plaintiff and the defendant Guerrero A Construction Corp., LLC (hereinafter the LLC), by its principal, Gabriel A. Guerrero, entered into a written merchant agreement whereby the plaintiff purchased from the LLC future receivables valued at $75,000 for the sum of $50,000, minus a $3,665 fee, for a net purchase price of $46,335. Guerrero executed a personal guaranty. The LLC made payments to the plaintiff totaling $2,500, but thereafter the authorized Automated Clearing House debits were rejected for insufficient funds.
+Thereafter, the plaintiff commenced this action against the LLC and Guerrero, alleging, among other things, a cause of action to recover damages for breach of contract.
+The LLC moved for summary judgment dismissing the complaint insofar as asserted against it, arguing that the transaction at issue was a criminally usurious loan and, thus, was void. The plaintiff cross-moved for summary judgment on the complaint. In an order dated February 8, 2023, the Supreme Court denied the LLC's motion and granted the plaintiff's cross-motion. The court entered a judgment dated April 20, 2023, upon the order, in favor of the plaintiff and against [*2]the defendants in the total sum of $93,651.88. The LLC appeals.
+"[T]he rudimentary element of usury is the existence of a loan or forbearance of money, and where there is no loan, there can be no usury, however unconscionable the contract may be" (*Crystal Springs Capital, Inc. v Big Thicket Coin, LLC*, [220 AD3d 745, 746](https://www.courtlistener.com/opinion/9432148/crystal-springs-capital-inc-v-big-thicket-coin-llc/#746) [internal quotation marks omitted]). "When determining whether a transaction constitutes a usurious loan, it must be considered in its totality and judged by its real character, rather than by the name, color, or form which the parties have seen fit to give it" (*Abir v Malky, Inc.*, [59 AD3d 646, 649](https://www.courtlistener.com/opinion/5910948/abir-v-malky-inc/#649) [internal quotation marks omitted]; *see LG Funding, LLC v United Senior Props. of Olathe, LLC*, [181 AD3d 664, 665](https://www.courtlistener.com/opinion/4734849/lg-funding-llc-v-united-senior-props-of-olathe-llc/#665)). "To determine whether a transaction constitutes a usurious loan: The court must examine whether the plaintiff is absolutely entitled to repayment under all circumstances. Unless a principal sum advanced is repayable absolutely, the transaction is not a loan" (*Principis Capital, LLC v I Do, Inc.*, [201 AD3d 752, 754](https://www.courtlistener.com/opinion/5957918/principis-capital-llc-v-i-do-inc/#754) [internal quotation marks omitted]). Courts generally "weigh three factors when determining whether repayment is absolute or contingent: (1) whether there is a reconciliation provision in the agreement; (2) whether the agreement has a finite term; and (3) whether there is any recourse should the merchant declare bankruptcy" (*[id.](https://www.courtlistener.com/opinion/5957918/principis-capital-llc-v-i-do-inc/)*[internal quotation marks omitted]).
+Here, the plaintiff established, prima facie, that the agreement contained a clause that provided that the LLC could request reconciliation to adjust payments upward or downward in response to fluctuations in the LLC's weekly receipts (*see [id.](https://www.courtlistener.com/opinion/5957918/principis-capital-llc-v-i-do-inc/)*). The plaintiff further established, prima facie, that this clause rendered the term of the agreement indefinite (*see [id.](https://www.courtlistener.com/opinion/5957918/principis-capital-llc-v-i-do-inc/)*). Additionally, the agreement identified bankruptcy as a "valid excuse[ ]" from the LLC's performance, which would not constitute default. Since bankruptcy relieved the LLC of the obligation of repayment, the plaintiff's entitlement to repayment was not absolute (*cf. LG Funding, LLC v United Senior Props. of Olathe, LLC*, [181 AD3d at 666](https://www.courtlistener.com/opinion/4734849/lg-funding-llc-v-united-senior-props-of-olathe-llc/#666)). Similarly, bankruptcy did not entitle the plaintiff to invoke Guerrero's personal guaranty (*cf*. *[id.](https://www.courtlistener.com/opinion/4734849/lg-funding-llc-v-united-senior-props-of-olathe-llc/)*).
+Taken together, these factors satisfied the plaintiff's prima facie burden of demonstrating that the transaction at issue was a purchase of future receivables and not a criminally usurious loan. In opposition, the LLC failed to raise a triable issue of fact. Accordingly, the Supreme Court properly granted the plaintiff's cross-motion for summary judgment on the complaint and denied the LLC's motion for summary judgment dismissing the complaint insofar as asserted against it.
+DILLON, J.P., FORD, LANDICINO and GOLIA, JJ., concur.
+ENTER:
+Darrell M. Joseph
+Clerk of the Court

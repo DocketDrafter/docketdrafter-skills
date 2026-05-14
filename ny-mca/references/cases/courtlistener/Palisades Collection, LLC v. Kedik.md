@@ -1,0 +1,27 @@
+---
+case_name: "Palisades Collection, LLC v. Kedik"
+case_name_full: "Palisades Collection, LLC v. Barbara Kedik"
+court_id: "nyappdiv"
+date_filed: "2009-11-13"
+docket_number: ""
+lookup_citation: ""
+citations: "67 A.D.3d 1329, 890 N.Y.S.2d 230"
+precedential_status: "Published"
+judges: ""
+opinion_type: "020lead"
+cluster_id: 5928334
+opinion_id: 5786339
+source_url: "https://www.courtlistener.com/opinion/5928334/palisades-collection-llc-v-kedik/"
+---
+
+# Majority Opinion
+
+[1330] Appeal from an order of the Supreme Court, Onondaga County (John C. Cherundolo, A.J.), entered September 30, 2008 in an action for breach of contract and account stated. The order denied plaintiffs motion for partial summary judgment and granted defendant summary judgment dismissing the complaint.
+
+It is hereby ordered that the order so appealed from is unanimously affirmed without costs.
+
+Memorandum: Plaintiff, as the alleged assignee of Discover Bank (Discover), commenced this action for breach of contract and account stated seeking to recover the balance owed on a credit card issued to defendant. Supreme Court denied in part plaintiffs motion for partial summary judgment dismissing seven of the affirmative defenses, reserved decision in part, and ordered plaintiff to provide evidence that it had standing. Following plaintiffs further submissions, the court concluded that plaintiff failed to provide admissible evidence of its standing and sua sponte granted defendant summary judgment dismissing the complaint. We affirm.
+
+To establish standing to sue, plaintiff was required to submit admissible evidence that Discover assigned its interest in defendant’s debt to plaintiff *(see generally Rockland Lease Funding Corp. v Waste Mgt. of N.Y.,*[245 AD2d 779](https://www.courtlistener.com/opinion/6154954/rockland-lease-funding-corp-v-waste-management-of-new-york-inc/) [1997]). Here, plaintiff submitted an affidavit from its agent with exhibits, including a printed copy of several' pages from an electronic spreadsheet listing defendant’s Discover account as one of the accounts sold to plaintiff. Contrary to the contention of plaintiff, the court properly determined that it failed to establish a proper foundation for the admission of the spreadsheet under the business record exception to the hearsay rule *(see generally Speirs v Not Fade Away Tie Dye Co.,*[236 AD2d 531](https://www.courtlistener.com/opinion/6145468/speirs-v-not-fade-away-tie-dye-co/) [1997]).
+
+A business record is admissible if “it was made in the regular course of any business and ... it was the regular course of such business to make it, at the time of the act, transaction, occurrence or event, or within a reasonable time thereafter” (CPLR 4518 [a]; *see generally People v Kennedy,*[68 NY2d 569, 579-580](https://www.courtlistener.com/opinion/5688407/people-v-kennedy/#579) [1986]). “A proper foundation for the admission of a business record must be provided by someone with personal [1331] knowledge of the maker’s business practices and procedures” *(West Val. Fire Dist. No. 1 v Village of Springville,*[294 AD2d 949, 950](https://www.courtlistener.com/opinion/6219283/west-valley-fire-district-no-1-v-village-of-springville/#950) [2002]). Although plaintiff’s agent averred that the spreadsheet was kept in the regular course of business and that the entries therein were made in the regular course of business, the agent did not establish that he was familiar with plaintiffs business practices or procedures, and he further failed to establish when, how, or by whom the electronic spreadsheet submitted in paper form was made *(see*CPLR 4518 [a]; *West Val. Fire Dist. No. 1,*[294 AD2d at 950](https://www.courtlistener.com/opinion/6219283/west-valley-fire-district-no-1-v-village-of-springville/#950)). Furthermore, although an electronic record “shall be admissible in a tangible exhibit that is a true and accurate representation of such electronic record” (CPLR 4518 [a]), plaintiffs agent failed to establish that the printed electronic spreadsheet submitted to the court was a true and accurate representation of the electronic record kept by plaintiff. Present—Smith, J.P., Centra, Fahey, Garni and Pine, JJ.

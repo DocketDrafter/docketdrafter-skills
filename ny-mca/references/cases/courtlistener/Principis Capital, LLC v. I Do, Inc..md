@@ -1,0 +1,43 @@
+---
+case_name: "Principis Capital, LLC v. I Do, Inc."
+case_name_full: ""
+court_id: "nyappdiv"
+date_filed: "2022-01-12"
+docket_number: "Index No. 517860/17"
+lookup_citation: ""
+citations: "201 A.D.3d 752, 160 N.Y.S.3d 325, 2022 NY Slip Op 00203"
+precedential_status: "Published"
+judges: ""
+opinion_type: "010combined"
+cluster_id: 5957918
+opinion_id: 5816772
+source_url: "https://www.courtlistener.com/opinion/5957918/principis-capital-llc-v-i-do-inc/"
+---
+
+Principis Capital, LLC v I Do, Inc. (2022 NY Slip Op 00203)
+Principis Capital, LLC v I Do, Inc. 2022 NY Slip Op 00203 Decided on January 12, 2022 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This opinion is uncorrected and subject to revision before publication in the Official Reports.
+Decided on January 12, 2022
+SUPREME COURT OF THE STATE OF NEW YORK
+Appellate Division, Second Judicial Department
+MARK C. DILLON, J.P.
+BETSY BARROS
+LINDA CHRISTOPHER
+JOSEPH A. ZAYAS, JJ.
+2018-12193
+ (Index No. 517860/17)
+**[*1]Principis Capital, LLC, appellant,
+vI Do, Inc., et al., respondents.**
+Platzer, Swergold, Levine, Goldberg, Katz & Jaslow, LLP, New York, NY (Andrew S. Muller of counsel), for appellant.
+DECISION & ORDER
+In an action, inter alia, to recover damages for breach of contract, the plaintiff appeals from an order of the Supreme Court, Kings County (Pamela L. Fisher, J.), dated May 29, 2018. The order, insofar as appealed from, denied those branches of the plaintiff's motion which were for summary judgment on the complaint and, in effect, for summary judgment dismissing the defendants' affirmative defenses and counterclaims.
+ORDERED that the order is reversed insofar as appealed from, on the law, with costs, and those branches of the plaintiff's motion which were for summary judgment on the complaint and, in effect, for summary judgment dismissing the defendants' affirmative defenses and counterclaims are granted.
+On or about March 7, 2017, the plaintiff, Principis Capital, LLC and the defendant I Do, Inc. (hereinafter I Do), entered into a written agreement (hereinafter the agreement), pursuant to which I Do sold and the plaintiff purchased an interest in I Do's future receivables for the sum of $38,429.39 (hereinafter the purchase price). In exchange for the purchase price, I Do authorized the plaintiff to debit from I Do's bank account a percentage of I Do's monthly sales revenue, until the plaintiff received the sum of $52,456.12 (hereinafter the purchased amount). I Do also agreed that in the event of its default under the agreement, the full uncollected purchased amount would become immediately due and payable in full to the plaintiff. The defendant Michael Bartels executed a
+personal guaranty of performance of all the representations, warranties, and covenants made by I Do in the agreement. On or about March 15, 2017, the plaintiff paid I Do the purchase price.
+In September 2017, the plaintiff commenced this action, inter alia, to recover damages for breach of contract, alleging that in or about August 2017, I Do, after making approximately $10,183.22 in payments, defaulted and made no further payments. In their answer, the defendants admitted that the plaintiff had paid I Do the sum of $38,429.39, I Do had executed the agreement, and I Do had paid approximately $10,183.22 to the plaintiff, but they denied other material allegations of the complaint and asserted various affirmative defenses and counterclaims. Subsequently, the plaintiff moved, inter alia, for summary judgment on the complaint and, in effect, for summary judgment dismissing the defendants' affirmative defenses and counterclaims. In an order dated May 29, 2018, the Supreme Court denied the plaintiff's motion. The plaintiff appeals.
+On its motion, the plaintiff submitted proof of an executed written contract and proof of the defendants' breach, which the defendant did not dispute. If, however, the agreement was found to be a loan, criminal usury would be a defense to its enforcement, rendering it void (*see Davis v Richmond Capital Group, LLC*, 194 AD3d 516, 517). "The rudimentary element of usury is the existence of a loan or forbearance of money, and where there is no loan, there can be no usury, however unconscionable the contract may be" (*LG Funding, LLC v United Senior Props. of Olathe, LLC*, [181 AD3d 664, 665](https://www.courtlistener.com/opinion/4734849/lg-funding-llc-v-united-senior-props-of-olathe-llc/#665)). To determine whether a transaction constitutes a usurious loan: "The court must examine whether the plaintiff is absolutely entitled to repayment under all circumstances. Unless a principal sum advanced is repayable absolutely, the transaction is not a loan. Usually, courts weigh three factors when determining whether repayment is absolute or contingent: (1) whether there is a reconciliation provision in the agreement; (2) whether the agreement has a finite term; and (3) whether there is any recourse should the merchant declare bankruptcy" (*LG Funding, LLC v United Senior Props. of Olathe, LLC*, [181 AD3d at 665-666](https://www.courtlistener.com/opinion/4734849/lg-funding-llc-v-united-senior-props-of-olathe-llc/#665) [citations and internal quotation marks omitted]).
+Here, the plaintiff established that the transaction set forth in the agreement was not a loan. The terms of the agreement specifically provided for adjustments to the monthly payments made by I Do to the plaintiff based on changes in I Do's monthly sales. Concomitantly, as the amount of the monthly payments could change, the term of the agreement was not finite. Moreover, no contractual provision existed establishing that a declaration of bankruptcy would constitute an event of default (*cf. Davis v Richmond Capital Group, LLC*, 194 AD3d at 517; *LG Funding, LLC v United Senior Props. of Olathe, LLC*, [181 AD3d at 665](https://www.courtlistener.com/opinion/4734849/lg-funding-llc-v-united-senior-props-of-olathe-llc/#665)). Since the plaintiff otherwise established its prima facie entitlement to judgment as a matter of law on the complaint by demonstrating the existence of an agreement and breach, and the defendants failed to raise a triable issue of fact in opposition, the Supreme Court should have granted that branch of the plaintiff's motion which was for summary judgment on the complaint (*see Victory State Bank v EMBA Hylan, LLC*, 169 AD3d 963, 965).
+Likewise, as the plaintiff demonstrated its prima facie entitlement to judgment as a matter of law dismissing the defendants' affirmative defenses and counterclaims, and as the defendants failed to raise a triable issue of fact in opposition (*see Zuckerman v City of New York*, [49 NY2d 557, 562](https://www.courtlistener.com/opinion/5684043/zuckerman-v-city-of-new-york/#562)), the Supreme Court should have granted those branches of the plaintiff's motion which were, in effect, for summary judgment dismissing those affirmative defenses and counterclaims.
+DILLON, J.P., BARROS, CHRISTOPHER and ZAYAS, JJ., concur.
+ENTER:
+Maria T. Fasulo
+Clerk of the Court
