@@ -1,0 +1,31 @@
+{
+  "name": "docketdrafter-skills",
+  "owner": {
+    "name": "Avize LLC d/b/a DocketDrafter"
+  },
+  "description": "Public legal research and drafting skills from DocketDrafter.",
+  "plugins": [
+    {
+      "name": "docketdrafter-ny-mca",
+      "source": "./",
+      "description": "New York merchant cash advance legal research and drafting skill.",
+      "author": {
+        "name": "Avize LLC d/b/a DocketDrafter"
+      },
+      "homepage": "https://www.docketdrafter.com/",
+      "repository": "https://github.com/DocketDrafter/docketdrafter-skills",
+      "license": "MIT",
+      "keywords": [
+        "law",
+        "legal-research",
+        "new-york",
+        "merchant-cash-advance",
+        "mca",
+        "usury"
+      ],
+      "category": "legal",
+      "skills": "./",
+      "strict": false
+    }
+  ]
+}

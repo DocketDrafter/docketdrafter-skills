@@ -6,7 +6,19 @@ This repository is intended to be read by AI coding agents such as Codex or
 Claude Code. A lawyer may simply provide this repository URL and ask the agent
 to install the skill.
 
-## Agent Install Instructions
+## Claude Code Install
+
+For Claude Code, install the marketplace and then the New York MCA plugin:
+
+```text
+/plugin marketplace add DocketDrafter/docketdrafter-skills
+/plugin install docketdrafter-ny-mca@docketdrafter-skills
+```
+
+After installation, Claude Code should invoke the installed skill automatically
+when the user's request involves New York merchant cash advance issues.
+
+## Generic Agent Install Instructions
 
 When a user asks you to install this repository as a skill source, install each
 top-level skill directory that contains a `SKILL.md`.
@@ -48,6 +60,8 @@ files while updating these skills.
 Folder: `ny-mca`
 
 Installed skill name: `ny-mca`
+
+Claude Code plugin name: `docketdrafter-ny-mca`
 
 This skill applies to New York merchant cash advance disputes, including:
 
