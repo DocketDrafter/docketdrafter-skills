@@ -1,0 +1,10 @@
+In a medical malpractice action, plaintiffs alleged negligence by defendants during
+surgery and treatment resulting in injury. The defendants moved for summary judgment,
+supported only by affidavits conclusorily denying deviation from accepted medical
+practices and causation, while plaintiffs sought to strike defendants’ answers due to
+deposition defaults. The Special Term denied summary judgment and granted plaintiffs’
+motion, but the Appellate Division reversed and dismissed the complaint. The Court of
+Appeals reversed the Appellate Division, holding that defendants failed to make a prima
+facie showing entitling them to summary judgment, as their conclusory assertions did not
+negate material issues of fact regarding negligence and causation. The case was remitted
+for further proceedings.

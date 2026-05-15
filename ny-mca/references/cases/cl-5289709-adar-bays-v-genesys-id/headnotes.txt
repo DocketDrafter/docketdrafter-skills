@@ -1,0 +1,9 @@
+In this certified-question proceeding from the Second Circuit, the court addressed
+whether a stock conversion option allowing a lender to convert debt into stock at a
+fixed discount constitutes interest under New York’s criminal usury law and whether
+loans exceeding the 25% usury cap are void ab initio. The court held that loans
+exceeding the statutory interest limit, including value attributable to contingent stock
+conversion options reasonably determinable at contracting, violate New York Penal Law §
+190.40 and General Obligations Law § 5-511, rendering such contracts void from
+inception. The court emphasized that valuation of such options is a factual matter and
+rejected treating them as so speculative as to be non-interest.

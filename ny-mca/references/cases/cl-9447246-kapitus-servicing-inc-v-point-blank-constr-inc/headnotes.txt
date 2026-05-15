@@ -1,0 +1,9 @@
+In this appeal from an order denying defendants' motion to dismiss a complaint, the
+Appellate Division, First Department, addressed subject matter jurisdiction and the
+nature of a revenue-based factoring agreement dispute. The court held that jurisdiction
+was proper under Business Corporation Law § 1314(b)(1) because the contract was made in
+New York, the place of making being where the last act necessary for formation
+occurred—here, plaintiff’s sending funds from New York to defendant’s Florida bank
+account. The court also found defendants did not establish dismissal was warranted based
+on a claim of criminal usury, as the agreement's character as either a loan or a sale of
+receivables was not clear on its face. The order was unanimously affirmed.

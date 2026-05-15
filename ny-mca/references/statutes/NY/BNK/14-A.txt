@@ -1,4 +1,4 @@
-Source: https://www.nysenate.gov/legislation/laws/BNK/14-A
+source_url: https://www.nysenate.gov/legislation/laws/BNK/14-A
 Fetched: 2026-05-14 11:09:45
 Code: BNK
 Section: 14-A

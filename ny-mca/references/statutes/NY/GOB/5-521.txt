@@ -1,4 +1,4 @@
-Source: https://www.nysenate.gov/legislation/laws/GOB/5-521
+source_url: https://www.nysenate.gov/legislation/laws/GOB/5-521
 Fetched: 2026-05-14 11:09:42
 Code: GOB
 Section: 5-521

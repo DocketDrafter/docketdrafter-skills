@@ -54,21 +54,21 @@ collection contexts.
 
 ## Foundation Requirements / General Standard
 
-- [People v. Kennedy](<../references/cases/courtlistener/People v. Kennedy.md>) — Court of Appeals; general standard for business records foundation under CPLR 4518
-- [Winegrad v. New York University Medical Center](<../references/cases/courtlistener/Winegrad v. New York University Medical Center.md>) — Court of Appeals; movant must make prima facie showing with admissible evidence; failure requires denial regardless of opposing papers
+- [People v. Kennedy](<https://www.courtlistener.com/opinion/5688407/people-v-kennedy/>) ([bundle](<../references/cases/cl-5688407-people-v-kennedy/>)) — Court of Appeals; general standard for business records foundation under CPLR 4518
+- [Winegrad v. New York University Medical Center](<https://www.courtlistener.com/opinion/5687761/winegrad-v-new-york-university-medical-center/>) ([bundle](<../references/cases/cl-5687761-winegrad-v-new-york-university-medical-center/>)) — Court of Appeals; movant must make prima facie showing with admissible evidence; failure requires denial regardless of opposing papers
 
 ## Affiant Must Have Personal Knowledge of Record-Keeping Practices
 
-- [Palisades Collection, LLC v. Kedik](<../references/cases/courtlistener/Palisades Collection, LLC v. Kedik.md>) — 4th Dept; requires proof record made in regular course of business, contemporaneously, and authenticated by someone with knowledge of maker's practices
-- [Autovest, LLC v. Cassamajor](<../references/cases/courtlistener/Autovest, LLC v. Cassamajor.md>) — 2d Dept; affiant must have personal knowledge of record-keeping practices
+- [Palisades Collection, LLC v. Kedik](<https://www.courtlistener.com/opinion/5928334/palisades-collection-llc-v-kedik/>) ([bundle](<../references/cases/cl-5928334-palisades-collection-llc-v-kedik/>)) — 4th Dept; requires proof record made in regular course of business, contemporaneously, and authenticated by someone with knowledge of maker's practices
+- [Autovest, LLC v. Cassamajor](<https://www.courtlistener.com/opinion/4890376/autovest-llc-v-cassamajor/>) ([bundle](<../references/cases/cl-4890376-autovest-llc-v-cassamajor/>)) — 2d Dept; affiant must have personal knowledge of record-keeping practices
 
 ## Third-Party Records
 
-- [Bank of New York Mellon v. Gordon](<../references/cases/justia/Bank of New York Mellon v. Gordon.md>), 2019 NY Slip Op 02306 (2d Dept. Mar. 27, 2019) — Comprehensive treatise on business records in foreclosure context; affiant must attest to personal knowledge of third party's record-keeping practices, or show records were incorporated into recipient's own records and routinely relied upon
+- [Bank of New York Mellon v. Gordon](<https://law.justia.com/cases/new-york/appellate-division-second-department/2019/2015-10709.html>) ([bundle](<../references/cases/justia-2019-ny-slip-op-02306/>)), 2019 NY Slip Op 02306 (2d Dept. Mar. 27, 2019) — Comprehensive treatise on business records in foreclosure context; affiant must attest to personal knowledge of third party's record-keeping practices, or show records were incorporated into recipient's own records and routinely relied upon
 
 ## Documents Not Admissible Merely Because Retained in Party's Files
 
-- [People v. Cratsley](<../references/cases/courtlistener/People v. Cratsley.md>) — Court of Appeals; documents not rendered admissible merely because retained in party's files
+- [People v. Cratsley](<https://www.courtlistener.com/opinion/2104096/people-v-cratsley/>) ([bundle](<../references/cases/cl-2104096-people-v-cratsley/>)) — Court of Appeals; documents not rendered admissible merely because retained in party's files
 
 ## Recurring Questions
 

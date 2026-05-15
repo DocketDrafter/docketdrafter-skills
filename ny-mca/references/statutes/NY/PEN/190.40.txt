@@ -1,4 +1,4 @@
-Source: https://www.nysenate.gov/legislation/laws/PEN/190.40
+source_url: https://www.nysenate.gov/legislation/laws/PEN/190.40
 Fetched: 2026-05-14 11:09:47
 Code: PEN
 Section: 190.40

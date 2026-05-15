@@ -1,0 +1,9 @@
+In this motion to dismiss, plaintiffs challenged agreements with Arch Capital Funding,
+LLC and Cap Call, LLC, alleging usury, RICO violations, and related claims. The court
+applied New York law, examining whether the agreements constituted loans subject to
+usury statutes or non-loan merchant agreements. It held that the Arch agreements,
+featuring reconciliation provisions, evergreen terms, and contingent repayment, were not
+loans as a matter of law, dismissing all usury and RICO claims against Arch. However,
+the Cap Call agreement lacked a reconciliation clause, precluding dismissal of usury and
+related RICO claims against Cap Call at this stage. Several other causes of action were
+dismissed for failure to state cognizable claims.

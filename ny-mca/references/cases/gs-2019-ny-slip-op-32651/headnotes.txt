@@ -1,0 +1,9 @@
+In consolidated motions pursuant to CPLR § 5015(3), defendants sought to vacate
+Judgments by Confession entered against them on grounds of fraud, misrepresentation,
+misconduct, and violation of criminal usury laws. The dispute involved Merchant
+Agreements under which plaintiff advanced funds purportedly for the purchase of
+defendants’ future receivables, with fixed daily ACH payments resulting in annualized
+interest rates exceeding 90%. The court found the Agreements evidenced criminal usurious
+loans due to absolute repayment obligations with calculated interest exceeding the legal
+rate, lack of risk to plaintiff, and the presence of guaranties. The court granted the
+motions and vacated the judgments as void ab initio.

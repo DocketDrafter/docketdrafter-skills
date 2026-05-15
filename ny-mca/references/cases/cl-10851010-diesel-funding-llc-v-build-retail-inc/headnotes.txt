@@ -1,0 +1,8 @@
+In an appeal from an order denying a motion to vacate a May 25, 2023 judgment and a
+stipulation of settlement, the Appellate Division, Second Department, addressed whether
+a contract purchasing future receivables constituted a usurious loan. The plaintiff
+purchased an interest in the defendant's future receivables with payment capped and
+adjusted based on sales, and a guaranty was executed. The court applied the totality
+test to determine if the agreement was a loan subject to usury laws and held the
+defendants failed to establish usury, noting the payment cap, adjustable payments,
+nonfinite term, and lack of an event of default upon bankruptcy. The order was affirmed.

@@ -1,0 +1,10 @@
+In this removed action under 18 U.S.C. § 1962(c), plaintiff Fleetwood Services, LLC
+moved for summary judgment on claims including usury under Texas law and RICO against
+defendants Richmond Capital Funding, LLC and Robert Giardina. The court applied New York
+law to interpret the Fleetwood Agreement and held it constituted a loan, not a true sale
+of future receivables, because it imposed an absolute obligation to repay a fixed
+Purchased Amount, granted Richmond extensive remedies upon default, and included
+personal guaranties. The court denied summary judgment on the usury claim due to
+unresolved choice-of-law issues but granted summary judgment on the RICO claim against
+Giardina, finding undisputed evidence of usurious lending as a business and resulting
+damages. The breach of contract and related claims were not resolved.

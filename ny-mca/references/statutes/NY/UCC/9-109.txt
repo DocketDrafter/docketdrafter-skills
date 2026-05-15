@@ -1,4 +1,4 @@
-Source: https://www.nysenate.gov/legislation/laws/UCC/9-109
+source_url: https://www.nysenate.gov/legislation/laws/UCC/9-109
 Fetched: 2026-05-14 14:15:04
 Code: UCC
 Section: 9-109
